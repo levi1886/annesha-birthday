@@ -1,0 +1,6 @@
+{
+  "name": "Heartfelt Moments - Interactive Birthday Gift",
+  "description": "A magical, interactive multi-stage birthday gift experience with cake wishing, balloon popping, polaroids, wax-sealed letter, and custom builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
